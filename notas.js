@@ -1,6 +1,5 @@
 document.write("Pagina de teste do JS novo")
-var valor = "<p>git nel....1Github</p> <p>pagbank ne....@pagbank
-</p><p>gov Nel...govbr1</p> <p>Brasicap @Nel...,1</p>"
+var valor = "<p>nel....@pagbank</p> <p>nel....1Github</p> <p>Nelson.govbr  Nel..govbr/1</p> <p>sant3490</p> <p>bd22333xaze</p> <p>BB753159XiLaQ2</p> <p>Bpan 1955 06</p>"; 
 
 
 function mostrar()
