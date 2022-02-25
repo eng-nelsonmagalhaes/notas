@@ -1,4 +1,4 @@
-document.write("Pagina de teste do JS")
+document.write("Pagina de teste do JS novo")
 var valor = "<p>nelson 999214877</p> <p>joão 999202020</p><p>josé</p> <p>adão</p>"
 
 
